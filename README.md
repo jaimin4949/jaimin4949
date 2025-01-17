@@ -40,7 +40,7 @@ Hi, I'm **Jaimin Gondaliya**, a **Cybersecurity Enthusiast** and **Computer Scie
 ## 📈 GitHub Stats
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=jaimin07&show_icons=true&theme=radical" alt="GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=jaimin07&theme=radical" alt="GitHub Streak" />
+
 </p>
 
 ---
